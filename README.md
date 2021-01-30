@@ -1,7 +1,7 @@
 # Proyecto de curso de React Hooks
 
-Este es el proyecto final del curso de Platzi de React Hooks
-Link para visualizar la app https://alisongaete.github.io/curso-react/
+* Este es el proyecto final del curso de Platzi de React Hooks
+* Link para visualizar la app https://alisongaete.github.io/curso-react/
 
 ## Hooks aplicados
 * useState
